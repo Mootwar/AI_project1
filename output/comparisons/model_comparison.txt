@@ -1,0 +1,13 @@
+=== Model Performance Comparison ===
+
+Original Model (With Race, Gender, and Country):
+  Accuracy: 0.8454
+  Precision: 0.6982
+  Recall: 0.6087
+  F1 Score: 0.6504
+
+Bias-Reduced Model (Without Race, Gender, and Country):
+  Accuracy: 0.8434
+  Precision: 0.6903
+  Recall: 0.6115
+  F1 Score: 0.6486

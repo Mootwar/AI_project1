@@ -1,0 +1,16 @@
+=== Importance of occupation in Predicting High Income ===
+
+occupation= Exec-managerial: 0.0201
+occupation= Prof-specialty: 0.0162
+occupation= Other-service: 0.0083
+occupation= Sales: 0.0076
+occupation= Craft-repair: 0.0073
+occupation= Adm-clerical: 0.0063
+occupation= Tech-support: 0.0051
+occupation= Transport-moving: 0.0051
+occupation= Farming-fishing: 0.0047
+occupation= Machine-op-inspct: 0.0043
+occupation= Handlers-cleaners: 0.0037
+occupation= Protective-serv: 0.0035
+occupation= Priv-house-serv: 0.0002
+occupation= Armed-Forces: 0.0000

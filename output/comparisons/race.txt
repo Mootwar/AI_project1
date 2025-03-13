@@ -1,0 +1,6 @@
+=== Importance of race in Predicting High Income ===
+
+race= White: 0.0076
+race= Black: 0.0055
+race= Asian-Pac-Islander: 0.0033
+race= Other: 0.0010

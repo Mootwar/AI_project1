@@ -1,0 +1,18 @@
+=== Income Analysis by Education ===
+
+ Prof-school: 0.7829
+ Doctorate: 0.7459
+ Masters: 0.5600
+ Bachelors: 0.3929
+ Assoc-acdm: 0.2397
+ Assoc-voc: 0.2091
+ Some-college: 0.1531
+ HS-grad: 0.1088
+ 7th-8th: 0.0388
+ 10th: 0.0351
+ Preschool: 0.0312
+ 9th: 0.0248
+ 11th: 0.0188
+ 5th-6th: 0.0170
+ 12th: 0.0000
+ 1st-4th: 0.0000
